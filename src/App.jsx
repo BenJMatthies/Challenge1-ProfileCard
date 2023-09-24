@@ -16,7 +16,7 @@ function Intro() {
   return <>
   <h1>Leonidas A. Gavran</h1>
   <h4>Indy game developer and SFF writer.</h4>
-  <p>Things I love: <br/>Building worlds and telling stories full of quirky, irreverant humor, and devouring the stories of others in all forms: books, movies and TV, and I particularly love animation as art, and video games! <br/>Spending time in nature, particularly camping and backpacking. <br/>Hanging out with cute girls ;) </p>
+  <p>Things I love: <br/>Building worlds and telling stories full of quirky, irreverant humor, and devouring the stories of others in all forms: books, movies and TV, and I particularly love animation as art, and video games! <br/>Spending time in nature, particularly camping and backpacking. <br/>Hanging out with cute girls😘 </p>
   </>
 }
 
